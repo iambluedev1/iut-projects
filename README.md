@@ -1,4 +1,4 @@
-[logo](http://www.planetecampus.com/wp-content/uploads/2017/04/iut-paris.jpg)
+![logo](http://www.planetecampus.com/wp-content/uploads/2017/04/iut-paris.jpg)
 
 Voici les différents projets que j'ai du faire au cours de mon DUT Informatique.
 
