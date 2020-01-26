@@ -1,0 +1,40 @@
+43211;Ad Astra;12
+75490;Star wars : L'ascension de Skywalker;12
+77074;Ip Man 4;12
+25089;Jumanji : next level;12
+32004;Joker;12
+30134;La reine des neiges 2;12
+2080;Retour à Zombieland;12
+69094;Gundala;12
+66222;6 Underground;12
+93917;One upon a timeâ€¦ in Hollywood;12
+51006;Red Shoes and the seven dwarfs;12
+78453;A couteaux tirés;12
+20481;Les incognitos;16
+46990;Code 8;16
+6652;Avengers, Infinity War;16
+6198;Rambo: Last Blood;16
+41970;One Piece Stampede;16
+92763;Parasite;16
+7431;Cats;12
+83859;Star wars : le reveil de la force;12
+78707;Cars : Quatre roues;12
+63786;Togo;12
+24888;Le seigneur des anneaux : la communauté de l'anneau;16
+92037;La chute du président;12
+11916;La guerre des étoiles;12
+31526;Avengers: Endgame;12
+7628;The irishman;16
+93481;Star wars: Les derniers jedi;16
+63248;Spider-man far from home;16
+9513;Marriage Story;16
+57335;Gemini Man;12
+48559;The lighthouse;16
+81910;The Aeronauts;12
+86932;Ca: Chapitre 2;12
+28506;Queens;12
+77392;La reine des neiges;12
+6116;Harry Potter à l'école des sorciers;16
+58252;El camino : Un film "Breaking Bad";12
+64447;Le roi lion;16
+83354;Les gardiens de la galaxie;16

@@ -1,0 +1,290 @@
+[
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": ["OURS", "LION", "ELEPHANT"]
+            },
+            {
+                "color": "ROUGE",
+                "animals": []
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": ["OURS", "ELEPHANT", "LION"]
+            },
+            {
+                "color": "ROUGE",
+                "animals": []
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": ["OURS", "LION"]
+            },
+            {
+                "color": "ROUGE",
+                "animals": ["ELEPHANT"]
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": ["OURS", "ELEPHANT"]
+            },
+            {
+                "color": "ROUGE",
+                "animals": ["LION"]
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": ["OURS"]
+            },
+            {
+                "color": "ROUGE",
+                "animals": ["LION", "ELEPHANT"]
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": ["OURS"]
+            },
+            {
+                "color": "ROUGE",
+                "animals": ["ELEPHANT", "LION"]
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": ["LION", "ELEPHANT"]
+            },
+            {
+                "color": "ROUGE",
+                "animals": ["OURS"]
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": ["ELEPHANT", "LION"]
+            },
+            {
+                "color": "ROUGE",
+                "animals": ["OURS"]
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": ["LION"]
+            },
+            {
+                "color": "ROUGE",
+                "animals": ["OURS", "ELEPHANT"]
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": ["ELEPHANT"]
+            },
+            {
+                "color": "ROUGE",
+                "animals": ["OURS", "LION"]
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": []
+            },
+            {
+                "color": "ROUGE",
+                "animals": ["OURS", "LION", "ELEPHANT"]
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": []
+            },
+            {
+                "color": "ROUGE",
+                "animals": ["OURS", "ELEPHANT", "LION"]
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": ["LION", "ELEPHANT", "OURS"]
+            },
+            {
+                "color": "ROUGE",
+                "animals": []
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": ["LION", "OURS", "ELEPHANT"]
+            },
+            {
+                "color": "ROUGE",
+                "animals": []
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": ["LION", "OURS"]
+            },
+            {
+                "color": "ROUGE",
+                "animals": ["ELEPHANT"]
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": ["ELEPHANT", "OURS"]
+            },
+            {
+                "color": "ROUGE",
+                "animals": ["LION"]
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": ["LION"]
+            },
+            {
+                "color": "ROUGE",
+                "animals": ["ELEPHANT", "OURS"]
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": ["ELEPHANT"]
+            },
+            {
+                "color": "ROUGE",
+                "animals": ["LION", "OURS"]
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": []
+            },
+            {
+                "color": "ROUGE",
+                "animals": ["LION", "ELEPHANT", "OURS"]
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": []
+            },
+            {
+                "color": "ROUGE",
+                "animals": ["LION", "OURS", "ELEPHANT"]
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": ["ELEPHANT", "OURS", "LION"]
+            },
+            {
+                "color": "ROUGE",
+                "animals": []
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": ["ELEPHANT", "LION", "OURS"]
+            },
+            {
+                "color": "ROUGE",
+                "animals": []
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": []
+            },
+            {
+                "color": "ROUGE",
+                "animals": ["ELEPHANT", "OURS", "LION"]
+            }
+        ]
+    },
+    {
+        "podiums": [
+            {
+                "color": "BLEU",
+                "animals": []
+            },
+            {
+                "color": "ROUGE",
+                "animals": ["ELEPHANT", "LION", "OURS"]
+            }
+        ]
+    }
+]
